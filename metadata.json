@@ -1,0 +1,6 @@
+{
+  "name": "PRESSURE POINT — Hawkins Bullwhip Command",
+  "description": "Interactive decision-support and demonstration tool for mitigating the bullwhip effect in Hawkins Cookers' supply chain with agentic AI advisory and deterministic policy engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
