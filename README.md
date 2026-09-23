@@ -87,7 +87,7 @@ After pushing it to the `main` branch:
 3. Push to `main`, or run **Deploy to GitHub Pages** manually from the **Actions** tab.
 
 The published site will be available at:
-`https://vishnuadharsh-iim-k.github.io/Test-1-Bullwhip/`
+`https://vishnuadharsh-iim-k.github.io/Mitigating-BullWhip---1/`
 
 ### Option B: Free Hosting on Vercel or Netlify
 

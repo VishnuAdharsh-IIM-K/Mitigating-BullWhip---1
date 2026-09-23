@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/Test-1-Bullwhip/',
+    base: '/Mitigating-BullWhip---1/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
